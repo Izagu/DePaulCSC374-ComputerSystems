@@ -1,2 +1,2 @@
 # DePaulCSC374-ComputerSystems
- All code was written in C/C++
+ Course work for Computer Systems I and II
